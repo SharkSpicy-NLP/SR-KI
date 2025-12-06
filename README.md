@@ -9,7 +9,7 @@
   </a>
 </p>
 
-SR-KI is a novel framework for integrating real-time and large-scale structured knowledge bases (KBs) into LLMs. The framework employs a two-stage training paradigm that enables efficient knowledge injection through supervised attention mechanisms, achieving up to 99.75% compression during inference.
+SR-KI is a novel framework for integrating real-time and large-scale structured knowledge bases (KBs) into LLMs. The framework employs a two-stage training paradigm that enables efficient knowledge injection through supervised attention mechanisms, achieving up to 99.75% compression during inference, while performing both retrieval and reasoning entirely inside the model without external retrievers.
 
 ## Overview
 
