@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# KBLAM Config
+# Config
 KB_SIZE=1000
 top_k_kb_train=100
 kb_token_layer_frequency=1 # default is 1
