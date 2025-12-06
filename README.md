@@ -245,7 +245,7 @@ Key parameters in `eval.sh`:
 
 ## Citation
 
-If you use this code in your research, please cite:
+If you find this code helpful in your research, we would kindly appreciate a citation:
 
 ```bibtex
 @misc{yu2025srkiscalablerealtimeknowledge,
